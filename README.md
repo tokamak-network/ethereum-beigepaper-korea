@@ -5,7 +5,9 @@
 
 # PDF 빌드
 
-[markdown-pdf](https://github.com/alanshaw/markdown-pdf)를 사용하여 md파일을 pdf파일로 빌드할 수 있습니다.  
+[markdown-pdf](https://github.com/alanshaw/markdown-pdf)를 사용하여 md파일을 pdf파일로 빌드할 수 있습니다.  
+
+원본: https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf
 
 require : `node` 및 `npm` 
 
