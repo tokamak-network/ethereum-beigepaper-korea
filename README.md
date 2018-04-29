@@ -19,8 +19,8 @@ node build-pdf.js
 # 목차
 * [Abstract](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/abstract.md)
 
-1. [Imagining Bitcoin As a Computer](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/1_Imaginig_Bitcoin_As_a_Computer.md)
-   1. [Native Currency](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/1_Imaginig_Bitcoin_As_a_Computer.md)
+1. [Imagining Bitcoin As a Computer](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/1_Imagining_Bitcoin_As_a_Computer.md)
+   1. [Native Currency](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/1_Imagining_Bitcoin_As_a_Computer.md)
 2. [Memory and Storage](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/2_Memory_and_Storage.md)
    1. [World State](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/2_Memory_and_Storage.md)
       1. [merkle patricia trees](https://github.com/Onther-Tech/ethereum-beigepaper-korea/blob/master/2_Memory_and_Storage.md)
